@@ -1,0 +1,8 @@
+langchain
+langchain_community
+openai
+tiktoken
+pypdf
+cohere
+chromadb
+dashscope
